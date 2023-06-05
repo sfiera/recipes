@@ -33,8 +33,8 @@ INDEX_SAVE_AS = ''
 
 # Blogroll
 LINKS = [
-        ('About', '/about'),
-        ('Metric', '/metric'),
+        ('About', '/recipes/about'),
+        ('Metric', '/recipes/metric'),
 ]
 
 # Social widget
