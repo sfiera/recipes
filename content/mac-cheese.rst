@@ -9,7 +9,6 @@ Ingredients
 * **25g** butter
 * **15g** flour
 * **100g** grated cheese
-* **50g** grated cheese
 * **25g** breadcrumbs
 
 Variations
