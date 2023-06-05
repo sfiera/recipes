@@ -1,7 +1,7 @@
 AUTHOR = "sfiera"
 SITENAME = "Recipes"
 SITEURL = ""
-SITELOGO = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
+SITELOGO = "static/spoon.svg"
 SITETITLE = "Recipes"
 CUSTOM_CSS = "static/custom.css"
 
