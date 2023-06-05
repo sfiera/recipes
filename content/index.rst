@@ -24,5 +24,6 @@ Sweets
 ------
 
 * `Marshmallows <{filename}/marshmallows.rst>`_
+* `Pecan Pie <{filename}/pecan-pie.rst>`_
 * `Pfeffernüsse <{filename}/pfeffernusse.rst>`_
 * `Rice Pudding <{filename}/rice-pudding.rst>`_
