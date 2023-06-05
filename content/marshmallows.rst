@@ -33,7 +33,7 @@ Instructions
 2.  Bring to a boil over medium-high heat.
 3.  After 2 minutes, ensure no crystals.
 4.  Bring syrup to 117°C.
-5.  Add gelatin to other half of water.
+5.  Mix gelatin into remaining water.
 6.  Pour syrup into gelatin gently.
 7.  Beat until doubled or tripled in size.
 8.  Mix in add-ins and beat to combine.
