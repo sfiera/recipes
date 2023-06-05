@@ -39,4 +39,4 @@ Instructions
 11. Pour pasta-sauce mixture into baking dish.
 12. Cover mixture with remaining cheese.
 13. Cover cheese with breadcrumbs.
-14. Bake for 30 minutes at 190°C.
+14. Bake at 190°C for 30 minutes.
