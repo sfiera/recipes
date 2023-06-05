@@ -18,6 +18,7 @@ Sides
 Drinks
 ------
 
+* `Celery Soda <{filename}/celery-soda.rst>`_
 * `Egg Nog <{filename}/egg-nog.rst>`_
 
 Sweets
