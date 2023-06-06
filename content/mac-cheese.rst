@@ -46,4 +46,4 @@ Notes
 
 .. [#main] The base recipe is more of a side, but with one of the variations that adds protein, it’s more of a main dish.
 
-.. [#advance] Steps 1–11 can be done a day or two in advance, with the baking dish left in the refrigerator until ready to top and bake.
+.. [#advance] Steps 1–11 can be done a day or two in advance, with the baking dish covered and refrigerated until ready to top and bake.
