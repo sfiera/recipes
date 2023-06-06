@@ -16,5 +16,5 @@ article > div {
     flex-flow: row wrap;
 }
 article > div > div {
-    padding: 0 2em 2em 0;
+    padding-right: 2em;
 }
