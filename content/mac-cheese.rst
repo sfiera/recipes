@@ -40,3 +40,10 @@ Instructions
 12. Cover mixture with remaining cheese.
 13. Cover cheese with breadcrumbs.
 14. Bake at 190°C for 30 minutes.
+
+Notes
+-----
+
+The base recipe is more of a side, but with one of the variations that adds protein, it’s more of a main dish.
+
+Steps 1–11 can be done a day or two in advance, with the baking dish left in the refrigerator until ready to top and bake.
