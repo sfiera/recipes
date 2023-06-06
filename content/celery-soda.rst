@@ -17,4 +17,4 @@ Instructions
 3.  Remove heat and add celery seed.
 4.  Let steep for 1 hour.
 5.  Strain out seeds and let cool.
-6.  Mix syrup 8:1 with soda water.
+6.  Mix soda water 8:1 with syrup.
