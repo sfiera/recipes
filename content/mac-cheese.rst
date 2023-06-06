@@ -35,15 +35,15 @@ Instructions
 7.  Bring sauce to a boil.
 8.  Lower heat and add half the cheese.
 9.  Cook sauce for 2 more minutes.
-10. Mix pasta and any add-ins into sauce.
-11. Pour pasta-sauce mixture into baking dish [#advance]_.
-12. Cover mixture with remaining cheese.
-13. Cover cheese with breadcrumbs.
-14. Bake at 190°C for 30 minutes.
+10. Remove heat and stir in any add-ins.
+11. Put cooked pasta into baking dish.
+12. Mix sauce into pasta [#advance]_.
+13. Cover mixture with remaining cheese.
+14. Cover cheese with breadcrumbs.
+15. Bake at 190°C for 30 minutes.
 
 Notes
 -----
 
 .. [#main] The base recipe is more of a side, but with one of the variations that adds protein, it’s more of a main dish.
-
-.. [#advance] Steps 1–11 can be done a day or two in advance, with the baking dish covered and refrigerated until ready to top and bake.
+.. [#advance] Steps 1–12 can be done a day or two in advance, with the baking dish covered and refrigerated until ready to top and bake.
