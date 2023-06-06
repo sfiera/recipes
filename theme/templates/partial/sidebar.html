@@ -63,6 +63,11 @@
             <a target="{{ get_target(link) }}" href="{{ link }}" >{{ name }}</a>
           </li>
         {% endfor %}
+        {% if page %}
+          <li>
+            <a href="https://github.com/sfiera/recipes/blob/main/content/{{ page.relative_source_path }}" >Source</a>
+          </li>
+        {% endif %}
       </ul>
     </nav>
     {% endif %}

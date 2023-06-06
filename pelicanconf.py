@@ -35,7 +35,6 @@ INDEX_SAVE_AS = ''
 LINKS = [
         ('About', '/recipes/about'),
         ('Metric', '/recipes/metric'),
-        ('Source', 'https://github.com/sfiera/recipes'),
 ]
 
 # Social widget
