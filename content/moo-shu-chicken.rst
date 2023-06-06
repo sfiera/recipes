@@ -22,15 +22,14 @@ Instructions
 2.  Cut chicken and marinate for 15 minutes.
 3.  Make omelette from eggs.
 4.  Remove omelette from pan and cut up.
-5.  Cook chicken in pan.
+5.  Cook chicken in pan with marinade [#marinade]_.
 6.  Add mushrooms and salad mix.
 7.  Cook another 3 minutes.
 8.  Add cut omelette to pan
-9.  Serve with tortillas and more tianmian sauce.
+9.  Serve with tortillas [#tortillas]_ and more tianmian sauce.
 
 Notes
 -----
 
-Original recipe calls for twice the marinade, with half used to marinate the chicken, then discarded and replaced for cooking.
-
-Tortillas are improved by brushing with sesame oil and heating before serving.
+.. [#marinade] Original recipe calls for twice the marinade, with half used to marinate the chicken, then discarded and replaced for cooking.
+.. [#tortillas] Tortillas are improved by brushing with sesame oil and heating before serving.
