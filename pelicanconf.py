@@ -28,7 +28,7 @@ PAGE_PATHS = [""]
 ARTICLE_PATHS = []
 PAGE_URL = "{slug}"
 PAGE_SAVE_AS = "{slug}.html"
-STATIC_PATHS = ["static", "images"]
+STATIC_PATHS = [""]
 INDEX_SAVE_AS = ''
 
 # Blogroll
