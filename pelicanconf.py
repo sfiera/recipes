@@ -3,7 +3,6 @@ SITENAME = "Recipes"
 SITEURL = ""
 SITELOGO = "static/spoon.svg"
 SITETITLE = "Recipes"
-CUSTOM_CSS = "static/custom.css"
 
 THEME = "./theme"
 DISPLAY_PAGES_ON_MENU = False
