@@ -35,7 +35,7 @@ Instructions
 ------------
 
 1.  Mix butter, milk, honey, and brown sugar in pot.
-2.  Heat until dissolved over medium heat.
+2.  Heat over medium heat until dissolved.
 3.  Remove heat and let sit 5 minutes.
 4.  Mix flour, almond meal, and spices [#spices]_ in bowl.
 5.  Mix spiced flour into pot.
