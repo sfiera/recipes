@@ -1,6 +1,8 @@
 Egg Nog
 =======
 
+:category: Drinks
+
 Ingredients
 -----------
 

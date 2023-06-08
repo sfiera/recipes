@@ -1,6 +1,8 @@
 Rice Pudding
 ============
 
+:category: Sweets
+
 Ingredients
 -----------
 

@@ -1,6 +1,8 @@
 Pecan Pie
 =========
 
+:category: Sweets
+
 Ingredients
 -----------
 

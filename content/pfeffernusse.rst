@@ -1,6 +1,8 @@
 Pfeffernüsse
 ============
 
+:category: Sweets
+
 Ingredients
 -----------
 

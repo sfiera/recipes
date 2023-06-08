@@ -1,6 +1,8 @@
 Cornbread
 =========
 
+:category: Sides
+
 Ingredients
 -----------
 

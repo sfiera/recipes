@@ -1,6 +1,8 @@
 Moo Shu Chicken
 ===============
 
+:category: Mains
+
 Ingredients
 -----------
 

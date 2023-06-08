@@ -1,6 +1,8 @@
 Mac & Cheese
 ============
 
+:category: Sides
+
 Ingredients
 -----------
 

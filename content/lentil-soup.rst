@@ -1,6 +1,8 @@
 Lentil Soup
 ===========
 
+:category: Sides
+
 Ingredients
 -----------
 

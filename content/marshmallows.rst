@@ -1,6 +1,8 @@
 Marshmallows
 ============
 
+:category: Sweets
+
 Ingredients
 -----------
 

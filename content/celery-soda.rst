@@ -1,6 +1,8 @@
 Celery Soda
 ===========
 
+:category: Drinks
+
 Ingredients
 -----------
 
