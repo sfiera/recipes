@@ -12,6 +12,7 @@ Ingredients
 * **45g** milk
 * **275g** flour
 * **30g** almond meal
+* **¼ tsp** white pepper
 * **1 tsp** cinnamon
 * **½ tsp** ground cloves
 * **¼ tsp** allspice
@@ -21,7 +22,6 @@ Ingredients
 * **¼ tsp** star anise
 * **⅛ tsp** mace
 * **⅛ tsp** nutmeg
-* **¼ tsp** white pepper
 * **1** egg
 * **300g** powdered sugar
 * **50mL** hot water
@@ -39,7 +39,7 @@ Instructions
 1.  Mix butter, milk, honey, and brown sugar in pot.
 2.  Heat over medium heat until dissolved.
 3.  Remove heat and let sit 5 minutes.
-4.  Mix flour, almond meal, and spices [#spices]_ in bowl.
+4.  Mix flour, almond meal, white pepper, and spices [#spices]_ in bowl.
 5.  Mix spiced flour into pot.
 6.  Mix in egg.
 7.  Wrap tightly and chill 1 day.
