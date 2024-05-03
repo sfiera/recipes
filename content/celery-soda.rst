@@ -6,6 +6,8 @@ Celery Soda
 Ingredients
 -----------
 
+.. include:: scale.rsti
+
 * **400g** sugar
 * **240mL** water
 * **2 tbsp** celery seed

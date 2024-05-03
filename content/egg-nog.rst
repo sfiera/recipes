@@ -6,6 +6,8 @@ Egg Nog
 Ingredients
 -----------
 
+.. include:: scale.rsti
+
 * **4** eggs
 * **50g** sugar
 * **400mL** milk

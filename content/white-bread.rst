@@ -6,6 +6,8 @@ White Bread
 Ingredients
 -----------
 
+.. include:: scale.rsti
+
 * **175mL** water
 * **250g** bread flour
 * **18g** olive oil

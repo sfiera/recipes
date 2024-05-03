@@ -6,6 +6,8 @@ Cornbread
 Ingredients
 -----------
 
+.. include:: scale.rsti
+
 * **120g** flour
 * **150g** cornmeal
 * **120g** sugar

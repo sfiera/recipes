@@ -6,6 +6,8 @@ Mac & Cheese
 Ingredients
 -----------
 
+.. include:: scale.rsti
+
 * **100g** dry pasta
 * **240g** milk
 * **25g** butter

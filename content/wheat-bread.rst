@@ -6,6 +6,8 @@ Wheat Bread
 Ingredients
 -----------
 
+.. include:: scale.rsti
+
 * **200mL** water
 * **130g** bread flour
 * **130g** whole wheat flour

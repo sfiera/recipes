@@ -1,0 +1,47 @@
+<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function() {
+  var input = document.getElementById("scale");
+  if (input === null) {
+    return;
+  }
+  input.addEventListener("change", function(e) {
+    document.querySelectorAll("#ingredients li strong").forEach(function(el) {
+      if (typeof el.originalValue === "undefined") {
+        el.originalValue = el.innerHTML;
+      }
+      var m = el.originalValue.match(/^(\d+|⅛|¼|⅓|⅜|½|⅝|⅔|¾|⅞)(.*)$/);
+      if (m === null) {
+        return;
+      }
+      var qty = m[1];
+      switch (qty) {
+        case "⅛": qty = 1/8; break;
+        case "¼": qty = 1/4; break;
+        case "⅓": qty = 1/3; break;
+        case "⅜": qty = 3/8; break;
+        case "½": qty = 1/2; break;
+        case "⅝": qty = 5/8; break;
+        case "⅔": qty = 2/3; break;
+        case "¾": qty = 3/4; break;
+        case "⅞": qty = 7/8; break;
+        default: qty = parseFloat(qty); break;
+      }
+      var unit = m[2];
+      qty *= e.target.value;
+      switch (qty) {
+        case 1/8: qty = "⅛"; break;
+        case 1/4: qty = "¼"; break;
+        case 1/3: qty = "⅓"; break;
+        case 3/8: qty = "⅜"; break;
+        case 1/2: qty = "½"; break;
+        case 5/8: qty = "⅝"; break;
+        case 2/3: qty = "⅔"; break;
+        case 3/4: qty = "¾"; break;
+        case 7/8: qty = "⅞"; break;
+        default: qty = "" + qty; break;
+      }
+      el.innerHTML = qty + unit;
+    })
+  });
+});
+</script>

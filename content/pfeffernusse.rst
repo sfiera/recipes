@@ -6,6 +6,8 @@ Pfeffernüsse
 Ingredients
 -----------
 
+.. include:: scale.rsti
+
 * **100g** brown sugar
 * **100g** honey
 * **70g** butter

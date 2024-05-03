@@ -6,6 +6,8 @@ Lentil Soup
 Ingredients
 -----------
 
+.. include:: scale.rsti
+
 * olive oil
 * **1** onion, diced
 * **1** carrot, diced

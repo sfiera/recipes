@@ -6,6 +6,8 @@ Moo Shu Chicken
 Ingredients
 -----------
 
+.. include:: scale.rsti
+
 * **60g** tianmian sauce
 * **30g** vinegar
 * **18g** oyster sauce

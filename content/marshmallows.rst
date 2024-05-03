@@ -6,6 +6,8 @@ Marshmallows
 Ingredients
 -----------
 
+.. include:: scale.rsti
+
 * **120mL** water
 * **200g** sugar
 * **65g** agave syrup

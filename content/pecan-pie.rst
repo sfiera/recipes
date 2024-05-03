@@ -6,6 +6,8 @@ Pecan Pie
 Ingredients
 -----------
 
+.. include:: scale.rsti
+
 * **2** eggs
 * **180g** brown sugar
 * **50g** sugar

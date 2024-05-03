@@ -6,6 +6,8 @@ Rye Bread
 Ingredients
 -----------
 
+.. include:: scale.rsti
+
 * **170mL** water
 * **170g** bread flour
 * **90g** rye flour

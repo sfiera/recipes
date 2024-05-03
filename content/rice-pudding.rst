@@ -6,6 +6,8 @@ Rice Pudding
 Ingredients
 -----------
 
+.. include:: scale.rsti
+
 * **640g** milk
 * **120g** rice
 * **30g** butter
