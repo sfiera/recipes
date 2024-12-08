@@ -21,9 +21,7 @@ Ingredients
 * **¼ tsp** coriander
 * **¼ tsp** cardamom
 * **¼ tsp** ginger
-* **¼ tsp** star anise
-* **⅛ tsp** mace
-* **⅛ tsp** nutmeg
+* **¼ tsp** nutmeg
 * **1** egg
 * **300g** powdered sugar
 * **50mL** hot water
@@ -34,6 +32,10 @@ Variations
 * Matchanüsse
 
   * **100g** matcha powder?
+
+* Kinakonüsse
+
+  * **100g** kinako?
 
 Instructions
 ------------
