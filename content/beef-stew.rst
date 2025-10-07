@@ -31,10 +31,10 @@ Instructions
 
 1.  Heat butter and oil in pot
 2.  Brown beef in pot and remove
-3.  Sauté onions and garlic in pot and remove
+3.  Sauté onion and garlic in pot and remove
 4.  Mix flour, salt, and pepper
-5.  Toss beef, onions, and garlic in flour mixture
-6.  Add all but green beans to pot
+5.  Toss beef, onion, and garlic in flour mixture
+6.  Add everything except green beans to pot
 7.  Bring pot to boil over medium heat
 8.  Boil stew for 90 minutes
 9.  Add green beans to pot
