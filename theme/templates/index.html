@@ -10,7 +10,7 @@
   <div>
     {% set categories = pages|rejectattr("category", "eq", "misc")|groupby("category") %}
     {% for cat, pages in categories %}
-    <div class="section" id="drinks">
+    <div class="section">
       <h2>{{ cat }}</h2>
       <ul class="simple">
         {% for page in pages %}
