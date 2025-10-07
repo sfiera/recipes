@@ -9,11 +9,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v5
       with: {submodules: true}
     - run: pip install -r requirements.txt
     - run: pelican -s publishconf.py
-    - uses: actions/upload-pages-artifact@v1
+    - uses: actions/upload-pages-artifact@v3
       with: {path: output}
 
   deploy:
@@ -24,5 +24,5 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-    - uses: actions/deploy-pages@v1  
+    - uses: actions/deploy-pages@v4
 
