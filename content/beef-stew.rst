@@ -8,22 +8,22 @@ Ingredients
 
 .. include:: scale.rsti
 
-* **1tbsp** butter
-* **1tbsp** olive oil
+* **1 tbsp** butter
+* **1 tbsp** olive oil
 * **650g** beef, cubed
 * **1** onion, chopped
 * **2 cloves** garlic, minced
-* **2tbsp** flour
-* **1tsp** salt
-* **1tsp** pepper
+* **2 tbsp** flour
+* **1 tsp** salt
+* **1 tsp** pepper
 * **3** carrots, sliced
 * **5** small potatoes, cubed
-* **1tbsp** Dijon mustard
+* **1 tbsp** Dijon mustard
 * **240mL** dry red wine
 * **240mL** beef broth
 * **120mL** red wine vinegar
-* **1tsp** dried thyme
-* **2tbsp** dark brown sugar
+* **1 tsp** dried thyme
+* **2 tbsp** dark brown sugar
 * **200g** green beans, trimmed and halved
 
 Instructions
